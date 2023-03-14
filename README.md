@@ -15,15 +15,15 @@ Algorithm          |
 ### Keypoints and their Trajectory
 Feature Points             |Tracks
 :-------------------------:|:-------------------------:
-<img src="results/Keypoints.png" width="350" alt="Alt text" title="">  |  <img src="results/Tracked_points.png" width="350" alt="Alt text" title="">
+<img src="/results/Keypoints.png" width="350" alt="Alt text" title="">  |  <img src="/results/Tracked_points.png" width="350" alt="Alt text" title="">
 
 ### Structure Obtained
 Structure            | 
 :-------------------------:|
-<img src="results/structure.png" width="350" alt="Alt text" title=""> |
+<img src="results/structure.png" width="600" alt="Alt text" title=""> |
 
 ### Motion of Cameras
 Camera motion         | 
 :-------------------------:|
-<img src="results/motion.png" width="350" alt="Alt text" title=""> |
+<img src="results/motion.png" width="600" alt="Alt text" title=""> |
 
