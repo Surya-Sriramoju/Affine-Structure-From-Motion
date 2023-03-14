@@ -15,7 +15,7 @@ Algorithm          |
 ### Keypoints and their Trajectory
 Feature Points             |Tracks
 :-------------------------:|:-------------------------:
-<img src="results/Keypoints.png" width="350" alt="Alt text" title="">  |  <img src="results/Tracked_points" width="350" alt="Alt text" title="">
+<img src="results/Keypoints.png" width="350" alt="Alt text" title="">  |  <img src="results/Tracked_points.png" width="350" alt="Alt text" title="">
 
 ### Structure Obtained
 Structure            | 
